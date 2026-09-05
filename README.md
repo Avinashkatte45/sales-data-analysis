@@ -1,19 +1,20 @@
-**Sales Data Analysis & Visualization**
+#Sales Data Analysis & Visualization
 📌 Project Overview
 
 This project performs sales data analysis using Python to identify sales trends, top-performing products, regional performance, and other useful business insights.
 
 The project demonstrates practical use of Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, analysis, and visualization.
 
-**🛠️ Technologies Used**
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
--Jupyter Notebook / VS Code
+## 🛠️ Technologies Used
 
-**📂 Project Files**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / VS Code
+
+#📂 Project Files
 sales-data-analysis/
 │
 ├── sales_data.csv          # Sales dataset
