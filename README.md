@@ -15,6 +15,8 @@ The project demonstrates practical use of Pandas, NumPy, Matplotlib, and Seaborn
 - Jupyter Notebook / VS Code
 
 ## 📂 Project Files
+
+```text
 sales-data-analysis/
 │
 ├── sales_data.csv          # Sales dataset
