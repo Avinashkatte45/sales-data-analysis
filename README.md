@@ -21,6 +21,7 @@ sales-data-analysis/
 └── README.md               # Project documentation
 
 **🔍 Analysis Performed**
+
 Data loading and cleaning
 Missing value analysis
 Duplicate record removal
@@ -40,6 +41,7 @@ Region-wise Sales
 Monthly Sales Trends
 Correlation Heatmap
 **🚀 How to Run**
+
 1. Clone the repository
 git clone https://github.com/Avinashkatte45/sales-data-analysis.git
 
@@ -63,6 +65,7 @@ Product demand patterns
 Overall sales performance
 
 **👨‍💻 Author**
+
 Avinash Katte
 
 Python Full Stack Developer | Data Analysis Enthusiast
