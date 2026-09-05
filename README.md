@@ -23,7 +23,7 @@ sales-data-analysis/
 ├── sales_analysis.py       # Python analysis script
 ├── requirements.txt        # Required Python libraries
 └── README.md               # Project documentation
-```text
+```
 
 ## 🔍 Analysis Performed
 
