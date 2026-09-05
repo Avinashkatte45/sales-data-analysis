@@ -12,6 +12,7 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook / VS Code
+
 **📂 Project Files**
 sales-data-analysis/
 │
