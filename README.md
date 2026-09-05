@@ -1,4 +1,4 @@
-#Sales Data Analysis & Visualization
+## Sales Data Analysis & Visualization
 📌 Project Overview
 
 This project performs sales data analysis using Python to identify sales trends, top-performing products, regional performance, and other useful business insights.
@@ -14,7 +14,7 @@ The project demonstrates practical use of Pandas, NumPy, Matplotlib, and Seaborn
 - Seaborn
 - Jupyter Notebook / VS Code
 
-#📂 Project Files
+## 📂 Project Files
 sales-data-analysis/
 │
 ├── sales_data.csv          # Sales dataset
@@ -22,7 +22,7 @@ sales-data-analysis/
 ├── requirements.txt        # Required Python libraries
 └── README.md               # Project documentation
 
-**🔍 Analysis Performed**
+## 🔍 Analysis Performed
 
 Data loading and cleaning
 Missing value analysis
@@ -34,15 +34,14 @@ Category-wise sales analysis
 Monthly sales trend analysis
 Best-performing product identification
 Sales data correlation analysis
-**📊 Visualizations**
-
+## 📊 Visualizations
 The project generates visualizations for:
 
 Sales by Product
 Region-wise Sales
 Monthly Sales Trends
 Correlation Heatmap
-**🚀 How to Run**
+## 🚀 How to Run
 
 1. Clone the repository
 git clone https://github.com/Avinashkatte45/sales-data-analysis.git
@@ -56,7 +55,7 @@ pip install -r requirements.txt
 4. Run the project
 python sales_analysis.py
 
-**📈 Key Insights**
+## 📈 Key Insights
 
 The analysis helps identify:
 
@@ -66,7 +65,7 @@ Monthly sales trends
 Product demand patterns
 Overall sales performance
 
-**👨‍💻 Author**
+## 👨‍💻 Author
 
 Avinash Katte
 
