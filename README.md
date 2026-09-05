@@ -6,12 +6,12 @@ This project performs sales data analysis using Python to identify sales trends,
 The project demonstrates practical use of Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, analysis, and visualization.
 
 **🛠️ Technologies Used**
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook / VS Code
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Jupyter Notebook / VS Code
 
 **📂 Project Files**
 sales-data-analysis/
